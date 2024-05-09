@@ -1,2 +1,8 @@
 print ("Hello, world!!!;");
 print ("I'm so happy to be here;")
+print ("Hello, my dear friend!;")
+print ("I'm so happy to see you;")
+
+
+
+
